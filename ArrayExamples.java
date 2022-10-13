@@ -1,5 +1,5 @@
 
-
+// testGit
 public class ArrayExamples {
 
   // Changes the input array to be in reversed order
@@ -8,9 +8,6 @@ public class ArrayExamples {
       arr[i] = arr[arr.length - i - 1];
     }
   }
-
-  //1 2 3
-  //3 2 3
 
   // Returns a *new* array with all the elements of the input array in reversed
   // order
