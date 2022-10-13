@@ -9,6 +9,9 @@ public class ArrayExamples {
     }
   }
 
+  //1 2 3
+  //3 2 3
+
   // Returns a *new* array with all the elements of the input array in reversed
   // order
   static int[] reversed(int[] arr) {
